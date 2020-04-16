@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace ALegeplads
 {
     class Program
@@ -7,6 +6,8 @@ namespace ALegeplads
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-        }
+            Console.WriteLine("Hej igen");
+            
+        }        
     }
 }
